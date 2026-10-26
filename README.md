@@ -19,4 +19,4 @@ Run `php worker.php` separately with the same `HORUS_SPOOL_DIR` as the applicati
 
 Redaction is enabled by default. Pass `["redaction" => false]` in integration code to disable it. Keep the spool private.
 
-Beta packages are not published yet. Maintained by bugdeployer. GPL-3.0-only.
+Install with `composer require bugdeployer/horus-sdk:0.4.0-beta.1`. Available on [Packagist](https://packagist.org/packages/bugdeployer/horus-sdk). Maintained by bugdeployer. GPL-3.0-only.
